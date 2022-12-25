@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'PINGAR+LT-BLACK';
-    src: url("path/PINGAR+LT-BLACK.otf") format("opentype");
+    src: url("https://github.com/abdelmaliksniper/fonts/blob/main/font/PINGAR%2BLT-BLACK.OTF") format("opentype");
 }
 
 @font-face {
     font-family: 'PINGAR+LT-BLACK';
     font-weight: bold;
-    src: url("path/PINGAR+LT-BLACK.otf") format("opentype");
+    src: url("https://github.com/abdelmaliksniper/fonts/blob/main/font/PINGAR%2BLT-BLACK.OTF") format("opentype");
 }
